@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "83433640664",
+    "firebase_url": "https://zing-demo.firebaseio.com",
+    "project_id": "zing-demo",
+    "storage_bucket": "zing-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83433640664:android:b495e64f844beacb",
+        "android_client_info": {
+          "package_name": "exceptions.developHER2019"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83433640664-3b13tl74gbfja3gs3p7he3n9ca67ngbh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "exceptions.developHER2019",
+            "certificate_hash": "1467a71d0628680a7e58125664149a27155e01fe"
+          }
+        },
+        {
+          "client_id": "83433640664-35o2tjvmvms3ffcc1pultdgufr2vose3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnoT46Qu3MNlRvQQF4kwouHLoiW05FICg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83433640664-35o2tjvmvms3ffcc1pultdgufr2vose3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
